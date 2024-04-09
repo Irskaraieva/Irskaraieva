@@ -1,6 +1,6 @@
 ### Hi, I’m Iryna Skaraieva 👋
 
-I'm a frontend developer with a knack for creating responsive and engaging user interfaces, skilled in React.
+I'm a frontend developer with a knack for creating responsive user interfaces, skilled in React.
 Proposals for cooperation with technologies that need to be studied are welcome!
 
 <!---
